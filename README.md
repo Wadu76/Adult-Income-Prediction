@@ -43,7 +43,7 @@ conda install pandas numpy scikit-learn matplotlib seaborn jupyter xgboost
 定位到代码文件夹并运行脚本：
 
 ```bash
-# 将路径替换为您的实际代码路径
+#将路径替换为您的实际代码路径
 cd My_User/adult-income-project/scripts
 python train.py
 ```
